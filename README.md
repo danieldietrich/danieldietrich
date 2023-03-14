@@ -9,7 +9,7 @@
 
 **Hey, I'm Daniel 👋**
 
-I'm a Software Engineer from [Kiel](https://www.kiel.de)/Germany.
+I am a Software Engineer from [Kiel](https://www.kiel.de)/Germany and lead [@TypeFox](https://github.com/TypeFox) as a general manager.
 
 You can reach me on [Twitter](https://twitter.com/danieldietrich).
 
